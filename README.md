@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Diogo</td>
+    <td>Canhotinho</td>
+  </tr>
 </table>
